@@ -1,0 +1,2 @@
+# MyCode
+Individual learning
